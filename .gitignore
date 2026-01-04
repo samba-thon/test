@@ -1,0 +1,39 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Environment
+.env
+.env.local
+
+# OS
+Thumbs.db
+
+# Project folders (only HTML, CSS, JS, README.md allowed)
+Full stack bootcamp/
+Dasmoto's Arts and Crafts website/
+TeaCozy/
+challenge/
+github/
+helloJavaScript/
+myindex/
+portfolio.css
+*.zip
+*.md
+!README.md
+
+# Test/build files
+*.test.js
+jest.config.js
